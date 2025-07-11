@@ -44,18 +44,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kipyegon-Lagat&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react" alt="Most Used Languages" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kipyegon-Lagat&show_icons=true&theme=react" alt="Kipyegon Lagat's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Kipyegon Lagat's GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react" alt="Top languages used by Kipyegon Lagat" /> </p>
 ---
 
  🙏 Thank You
