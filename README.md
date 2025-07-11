@@ -44,8 +44,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kipyegon-Lagat&show_icons=true&theme=react" alt="Kipyegon Lagat's GitHub stats" />
 </p>
