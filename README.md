@@ -53,8 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react" alt="Top languages used by Kipyegon Lagat](https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=calm&token=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)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react&token=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" alt="Top languages used by Kipyegon Lagat" />
 </p>
+
 
 ---
 
