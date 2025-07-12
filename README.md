@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="Kipyegon Lagat's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B,%20Y%5D" alt="Kipyegon Lagat's GitHub streak" />
 </p>
 
 <p align="center">
