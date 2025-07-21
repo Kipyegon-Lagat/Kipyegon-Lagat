@@ -49,8 +49,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B,%20Y%5D" alt="Kipyegon Lagat's GitHub streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Kipyegon-Lagat&theme=react&date_format=M%20j,%20Y" 
+    alt="Kipyegon Lagat's GitHub streak" 
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react&token=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" alt="Top languages used by Kipyegon Lagat" />
