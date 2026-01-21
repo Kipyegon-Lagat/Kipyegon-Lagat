@@ -53,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react&token=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" alt="Top languages used by Kipyegon Lagat" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/Kipyegon-Lagat=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
