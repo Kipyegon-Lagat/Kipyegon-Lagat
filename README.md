@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipyegon-Lagat&layout=compact&theme=react&token=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" alt="Top languages used by Kipyegon Lagat" />
 </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kipyegon-Lagat&theme=dark" alt="GitHub Streak" /></a>
 ---
 
  🙏 Thank You
