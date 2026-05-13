@@ -36,11 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kipyegon-Lagat&theme=react&date_format=M%20j%5B,%20Y%5D" alt="Lagat's GitHub streak" />
-</p>
 
 
 ---
